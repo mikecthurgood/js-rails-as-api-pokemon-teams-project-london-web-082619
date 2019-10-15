@@ -1,10 +1,11 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   header {
-    background-color: #4caf50;
+    background-color: #4ca8af;
     margin: 0 auto;
     height: 50px;
   }
@@ -24,12 +25,13 @@ body {
   }
   
   div.card {
-    background-color: #eeeeee;
+    background-color: #e0eaff;
     height: 250px;
     width: 300px;
-    box-shadow: 10px 10px grey;
+    box-shadow: 2px 2px grey;
     padding: 10px;
     border-radius: 10px;
+    margin-left: 10px;
   }
   
   p {
@@ -39,7 +41,7 @@ body {
   }
   
   li {
-    font-size: 1.05em;
+    font-size: 0.9em;
     list-style: none;
     padding-right: 20px;
   }
